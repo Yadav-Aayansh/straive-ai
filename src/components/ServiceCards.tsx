@@ -33,7 +33,7 @@ export const ServiceCards: React.FC<ServiceCardsProps> = ({ services, title }) =
         </p>
       </div>
       
-      <div className="p-6 space-y-6 overflow-y-auto h-full">
+      <div className="p-6 pb-24 space-y-6 overflow-y-auto" style={{ height: 'calc(100vh - 140px)' }}>
         {services.map((service, index) => (
           <ServiceCard key={`${service.Title}-${index}`} service={service} index={index} />
         ))}

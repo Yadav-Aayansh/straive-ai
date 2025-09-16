@@ -51,11 +51,12 @@
 
 /* Responsive design */
 @media (max-width: 768px) {
-  .w-1\/2 {
+  .w-1\/2, .flex-shrink-0 {
     width: 100%;
+    flex-shrink: 1;
   }
   
-  .flex {
+  .flex:not(.items-center):not(.justify-center):not(.gap-2):not(.gap-3):not(.gap-4) {
     flex-direction: column;
   }
   

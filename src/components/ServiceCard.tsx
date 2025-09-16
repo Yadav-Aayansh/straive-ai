@@ -14,7 +14,7 @@ export const ServiceCard: React.FC<ServiceCardProps> = ({ service, index }) => {
 
   return (
     <div 
-      className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden group animate-fade-in"
+      className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden group animate-fade-in w-full"
       style={{ animationDelay: `${index * 100}ms` }}
     >
       {hasImage && (

@@ -58,7 +58,7 @@ export const ChatPage: React.FC = () => {
       
       <div className="flex-1 flex overflow-hidden">
         {/* Chat Panel */}
-        <div className="w-1/2 border-r border-gray-300 bg-white shadow-lg">
+        <div className="w-1/2 border-r border-gray-300 bg-white shadow-lg flex-shrink-0">
           <Chat
             services={services}
             config={config}
@@ -68,7 +68,7 @@ export const ChatPage: React.FC = () => {
         </div>
 
         {/* Service Cards Panel */}
-        <div className="w-1/2 bg-white shadow-lg">
+        <div className="w-1/2 bg-white shadow-lg flex-shrink-0 overflow-hidden">
           <ServiceCards
             services={displayedServices}
             title="Relevant Services"
