@@ -5,7 +5,7 @@ import { ChatPage } from './pages/ChatPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/straive-ai">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/chat" element={<ChatPage />} />
