@@ -4,7 +4,7 @@
     "Title": "Ticket AI Assist Agent",
     "Image": "https://new.straive.com/wp-content/uploads/2025/09/ticketing.gif",
     "Snippet": "Ticket AI Assist streamlines ticket management by classifying, summarizing, and drafting email responses, enhancing efficiency, accuracy for customer satisfaction.",
-    "Long_description": "Ticket AI Assist is an AI-powered solution that streamlines the entire ticket management lifecycle, helping enterprises boost accuracy, speed, and customer satisfaction. The demo highlights how the platform intelligently processes support tickets from intake to resolution, minimizing manual effort for service teams.\n\nThe assistant automatically classifies tickets by issue type and directly routes them to the right resolver groups or SMEs. It then summarizes key details, giving teams instant context, and provides actionable insights that guide investigation and resolution. To accelerate communication, Ticket AI Assist drafts response emails aligned with SOPs and best practices, which agents can quickly review and send. It also identifies similar tickets from past cases, enabling faster, more consistent resolutions.\n\nThe demo showcases real-world workflows such as metadata errors or account access issues being detected, triaged, resolved, and communicated back to users \u2014 complete with ready-to-send email drafts. By automating repetitive processes, Ticket AI Assist frees up human agents to focus on more complex problems, improving SLA adherence and overall productivity.\n\nFor organizations, this means smoother operations, higher accuracy in issue handling, and stronger customer satisfaction through AI-driven support efficiency.",
+    "Long_description": "Ticket AI Assist is an AI-powered solution that streamlines the entire ticket management lifecycle, helping enterprises boost accuracy, speed, and customer satisfaction. The demo highlights how the platform intelligently processes support tickets from intake to resolution, minimizing manual effort for service teams.\n\nThe assistant automatically classifies tickets by issue type and directly routes them to the right resolver groups or SMEs. It then summarizes key details, giving teams instant context, and provides actionable insights that guide investigation and resolution. To accelerate communication, Ticket AI Assist drafts response emails aligned with SOPs and best practices, which agents can quickly review and send. It also identifies similar tickets from past cases, enabling faster, more consistent resolutions.\n\nThe demo showcases real-world workflows such as metadata errors or account access issues being detected, triaged, resolved, and communicated back to users — complete with ready-to-send email drafts. By automating repetitive processes, Ticket AI Assist frees up human agents to focus on more complex problems, improving SLA adherence and overall productivity.\n\nFor organizations, this means smoother operations, higher accuracy in issue handling, and stronger customer satisfaction through AI-driven support efficiency.",
     "Note": null
   },
   {
@@ -12,7 +12,7 @@
     "Title": "Email AI Agent",
     "Image": null,
     "Snippet": "Summarize and draft responses to customer support emails using LLMs",
-    "Long_description": "The Email AI Agent is designed to transform how enterprises handle customer support emails by leveraging the power of generative AI. The demo showcases how the assistant can quickly interpret complex customer queries, summarize key issues, and generate professional draft responses \u2014 significantly reducing turnaround time for support teams.\n\nWhen a customer email is received, the AI automatically extracts the core details and generates a clear summary with action items, ensuring nothing is missed. It identifies urgent concerns, highlights next steps, and organizes the information in a structured way for easy follow-up. At the same time, the agent creates a ready-to-send draft response that is aligned with the company\u2019s tone and service standards. Agents can then review, edit if necessary, and send the response \u2014 saving hours of manual effort across repetitive support tasks.\n\nThe demo illustrates real-world use cases such as delayed parcel deliveries or redirection requests, where the AI not only outlines the customer\u2019s issues but also suggests precise follow-up actions. By automating both summarization and drafting, the Email AI Agent empowers service teams to handle higher volumes, reduce resolution times, and deliver more consistent customer experiences.",
+    "Long_description": "The Email AI Agent is designed to transform how enterprises handle customer support emails by leveraging the power of generative AI. The demo showcases how the assistant can quickly interpret complex customer queries, summarize key issues, and generate professional draft responses — significantly reducing turnaround time for support teams.\n\nWhen a customer email is received, the AI automatically extracts the core details and generates a clear summary with action items, ensuring nothing is missed. It identifies urgent concerns, highlights next steps, and organizes the information in a structured way for easy follow-up. At the same time, the agent creates a ready-to-send draft response that is aligned with the company's tone and service standards. Agents can then review, edit if necessary, and send the response — saving hours of manual effort across repetitive support tasks.\n\nThe demo illustrates real-world use cases such as delayed parcel deliveries or redirection requests, where the AI not only outlines the customer's issues but also suggests precise follow-up actions. By automating both summarization and drafting, the Email AI Agent empowers service teams to handle higher volumes, reduce resolution times, and deliver more consistent customer experiences.",
     "Note": null
   },
   {
@@ -20,7 +20,7 @@
     "Title": "Clinical Trials API Agent",
     "Image": null,
     "Snippet": "Answer questions from relevant clinical trials from ClinicalTrials.gov using LLMs",
-    "Long_description": "Trial Intel is designed to revolutionize how pharma teams access and apply clinical trial insights by harnessing the power of AI and real-time data. The demo showcases how the assistant can interpret complex business questions, query the ClinicalTrials.gov API, and deliver evidence-backed answers in seconds \u2014 helping teams craft data-driven, personalized messaging with ease.\n\nWhen a question is asked, the AI identifies the intent, translates it into a structured query, and maps study relationships using a dynamic graph. It then presents a clear, contextualized answer supported by trial citations, ensuring credibility and precision. Whether it\u2019s highlighting unique clinical endpoints, comparing therapy outcomes, or tracking post-launch safety data, the agent delivers actionable insights aligned with commercial and medical needs.\n\nThe demo illustrates real-world use cases such as developing promotional campaigns, building competitive sales narratives, tailoring marketing by biomarkers or demographics, and monitoring real-world evidence post-launch. By automating data interpretation and insight generation, Trial Intel empowers pharma teams to save time, reduce complexity, and create impactful, evidence-based engagement strategies.",
+    "Long_description": "Trial Intel is designed to revolutionize how pharma teams access and apply clinical trial insights by harnessing the power of AI and real-time data. The demo showcases how the assistant can interpret complex business questions, query the ClinicalTrials.gov API, and deliver evidence-backed answers in seconds — helping teams craft data-driven, personalized messaging with ease.\n\nWhen a question is asked, the AI identifies the intent, translates it into a structured query, and maps study relationships using a dynamic graph. It then presents a clear, contextualized answer supported by trial citations, ensuring credibility and precision. Whether it's highlighting unique clinical endpoints, comparing therapy outcomes, or tracking post-launch safety data, the agent delivers actionable insights aligned with commercial and medical needs.\n\nThe demo illustrates real-world use cases such as developing promotional campaigns, building competitive sales narratives, tailoring marketing by biomarkers or demographics, and monitoring real-world evidence post-launch. By automating data interpretation and insight generation, Trial Intel empowers pharma teams to save time, reduce complexity, and create impactful, evidence-based engagement strategies.",
     "Note": "Demos not working. Showing 401 error"
   },
   {
@@ -36,7 +36,7 @@
     "Title": "Metadata AI Agent",
     "Image": null,
     "Snippet": "AI-powered tool that validates, corrects, and optimizes metadata for accuracy and efficiency",
-    "Long_description": "Metadata AI Assist is designed to transform how enterprises manage and validate metadata by leveraging the power of AI. This intelligent assistant automates the process of checking, correcting, and enriching metadata, ensuring higher accuracy, consistency, and efficiency across datasets.\n\nWhen metadata is uploaded, the assistant automatically validates entries against predefined rules, detecting inconsistencies, missing fields, or incorrect formats. It then provides AI-driven suggestions for corrections and improvements, along with clear explanations for each validation result, so users understand not just what to fix, but why. Corrected values can be quickly saved and applied, reducing repetitive manual work and the risk of human error.\n\nBeyond validation, Metadata AI Assist serves as a quality-control partner by pinpointing issues early and offering proactive insights that enhance downstream processes like searchability, analytics, and compliance. This leads to streamlined workflows, reduced operational costs, and improved trust in data-driven decisions.\n\nThe demo illustrates real-world applications such as large-scale content operations, digital publishing, and enterprise data management. By automating both error detection and resolution, Metadata AI Assist empowers teams to maintain clean, reliable metadata\u2014unlocking efficiency, scalability, and smarter use of information assets.",
+    "Long_description": "Metadata AI Assist is designed to transform how enterprises manage and validate metadata by leveraging the power of AI. This intelligent assistant automates the process of checking, correcting, and enriching metadata, ensuring higher accuracy, consistency, and efficiency across datasets.\n\nWhen metadata is uploaded, the assistant automatically validates entries against predefined rules, detecting inconsistencies, missing fields, or incorrect formats. It then provides AI-driven suggestions for corrections and improvements, along with clear explanations for each validation result, so users understand not just what to fix, but why. Corrected values can be quickly saved and applied, reducing repetitive manual work and the risk of human error.\n\nBeyond validation, Metadata AI Assist serves as a quality-control partner by pinpointing issues early and offering proactive insights that enhance downstream processes like searchability, analytics, and compliance. This leads to streamlined workflows, reduced operational costs, and improved trust in data-driven decisions.\n\nThe demo illustrates real-world applications such as large-scale content operations, digital publishing, and enterprise data management. By automating both error detection and resolution, Metadata AI Assist empowers teams to maintain clean, reliable metadata—unlocking efficiency, scalability, and smarter use of information assets.",
     "Note": null
   },
   {
@@ -51,7 +51,7 @@
     "URL": "https://www.straive.com/contact-us",
     "Title": "Research Agent",
     "Image": null,
-    "Snippet": "Automate research and data integration\u2014no coding, just smart API-driven insights.",
+    "Snippet": "Automate research and data integration—no coding, just smart API-driven insights.",
     "Long_description": "Research Agent is designed to streamline and automate the way enterprises query and integrate scholarly and operational data from multiple APIs. By leveraging LLM-powered intelligence, it eliminates the need for manual API coding, enabling both technical and non-technical users to access, analyze, and combine information seamlessly.\n\nThe tool connects to diverse sources like CrossRef, OpenAlex, GitHub, StackOverflow, Google Analytics, and Google Workspace, providing a unified interface to query real-time information. Users can simply ask natural language questions, and the agent translates them into API calls, retrieves accurate results, and organizes responses into actionable insights.\n\nWith Research Agent, teams can:\n\nAccess real-time data across repositories and platforms without writing code.\n\nAutomate repetitive research tasks, saving hours of manual effort.\n\nIntegrate information across different APIs to support publishing, operations, and competitive analysis.\n\nPrototype and test API interactions quickly, accelerating development cycles.\n\nBusiness users can leverage it to monitor trends, benchmark competitors, and gather intelligence without technical expertise, while developers can use it to reduce boilerplate coding and streamline workflows.\n\nBy combining natural language queries with powerful API integration, Research Agent empowers organizations to unlock smarter, faster, and more scalable research and operational insights.",
     "Note": null
   },
@@ -60,14 +60,14 @@
     "Title": "Penn Foster AI Chat Audit",
     "Image": null,
     "Snippet": "AI that audits every customer chat, ensuring quality, compliance, and real-time agent training.",
-    "Long_description": "AI Chat Audit is designed to revolutionize customer service quality evaluation by using AI to automatically review and assess agent\u2013customer interactions. Instead of relying on manual sampling\u2014which often misses key insights\u2014this tool evaluates 100% of chat conversations, ensuring no gaps in feedback or training opportunities.\n\nThe system works by uploading chat transcripts, which are then analyzed in real time with LLM-powered intelligence. It assesses the quality of agent responses, checks adherence to guidelines, and highlights both strengths and areas for improvement. The tool can even train agents on the fly, offering instant coaching and actionable recommendations.\n\nKey features include:\n\nAutomated evaluation of customer service chats for quality and compliance.\n\nPerformance benchmarking to identify high-performing agents and training needs.\n\nContinuous learning, allowing service teams to adapt and improve with every interaction.\n\nScalable analysis, reviewing large volumes of chats quickly and consistently.\n\nBy eliminating the bottleneck of manual reviews, AI Chat Audit empowers customer service leaders to drive efficiency, consistency, and higher satisfaction levels. Organizations can ensure that every interaction meets quality standards, while agents benefit from continuous, personalized training that elevates performance.",
+    "Long_description": "AI Chat Audit is designed to revolutionize customer service quality evaluation by using AI to automatically review and assess agent–customer interactions. Instead of relying on manual sampling—which often misses key insights—this tool evaluates 100% of chat conversations, ensuring no gaps in feedback or training opportunities.\n\nThe system works by uploading chat transcripts, which are then analyzed in real time with LLM-powered intelligence. It assesses the quality of agent responses, checks adherence to guidelines, and highlights both strengths and areas for improvement. The tool can even train agents on the fly, offering instant coaching and actionable recommendations.\n\nKey features include:\n\nAutomated evaluation of customer service chats for quality and compliance.\n\nPerformance benchmarking to identify high-performing agents and training needs.\n\nContinuous learning, allowing service teams to adapt and improve with every interaction.\n\nScalable analysis, reviewing large volumes of chats quickly and consistently.\n\nBy eliminating the bottleneck of manual reviews, AI Chat Audit empowers customer service leaders to drive efficiency, consistency, and higher satisfaction levels. Organizations can ensure that every interaction meets quality standards, while agents benefit from continuous, personalized training that elevates performance.",
     "Note": null
   },
   {
     "URL": "https://www.straive.com/contact-us",
     "Title": "Agent Note",
     "Image": null,
-    "Snippet": "Automate post-call documentation with AI to save time\u2014delivering concise, consistent, and actionable notes.",
+    "Snippet": "Automate post-call documentation with AI to save time—delivering concise, consistent, and actionable notes.",
     "Long_description": "Agent Notes Generator is designed to streamline post-call documentation by leveraging LLM technology to automatically summarize customer interactions into concise, professional, and actionable notes. This tool helps customer service teams save time, reduce manual effort, and ensure higher accuracy in capturing key details after every support call or chat.\n\nInstead of agents spending valuable minutes writing lengthy summaries, the system allows them to enter basic details about the interaction and instantly generates a well-structured note. It captures issues raised, troubleshooting steps taken, and resolution outcomes, creating consistent records that are easy to review and share.\n\nKey capabilities include:\n\nConcise summaries that eliminate unnecessary detail while preserving critical information.\n\nActionable insights, ensuring follow-up steps and outcomes are clearly documented.\n\nResolution tracking, capturing troubleshooting efforts and escalation paths.\n\nEfficiency gains, reducing time spent on repetitive documentation tasks.\n\nImproved quality, ensuring standardized notes across different agents and teams.\n\nBy automating documentation, Agent Notes Generator empowers service teams to focus more on customers and less on paperwork. It drives consistency, improves knowledge-sharing across teams, and helps organizations maintain accurate records for compliance, training, and service improvement.",
     "Note": null
   },
@@ -77,14 +77,14 @@
     "Image": null,
     "Snippet": null,
     "Long_description": null,
-    "Note": "Upon Clicking on Demo, receiving a error message \"This site can\u2019t be reached\""
+    "Note": "Upon Clicking on Demo, receiving a error message \"This site can't be reached\""
   },
   {
     "URL": "https://www.straive.com/contact-us",
     "Title": "Email Assist Agent",
     "Image": null,
     "Snippet": "Automate and save time with AI that summarizes emails, lists actions, and drafts responses",
-    "Long_description": "The Email Assist Agent is designed to transform how enterprises manage customer emails by leveraging the power of generative AI. It intelligently summarizes lengthy consumer emails into clear, concise insights and extracts key action items, reducing manual effort and improving turnaround times.\n\nWhen a customer email is received, the agent analyzes the content, identifies critical issues, and generates a structured summary that highlights the most important points. This ensures customer concerns are never overlooked and enables support teams to prioritize tasks effectively. Alongside summarization, it automatically extracts actionable follow-ups, such as delivery updates, redirection requests, or escalation needs, ensuring faster resolution.\n\nTo further streamline workflows, the tool generates a draft email response, aligned with organizational tone and standards. This allows agents to quickly review, refine, and send replies\u2014significantly improving both speed and consistency of communication.\n\nThe demo showcases real-world use cases, such as logistics updates, redirection requests, or service complaints, where the AI rapidly interprets the customer\u2019s intent and produces actionable next steps. By automating repetitive email analysis and response drafting, the Email Assist Agent empowers teams to save time, handle higher volumes, reduce errors, and deliver superior customer experiences.",
+    "Long_description": "The Email Assist Agent is designed to transform how enterprises manage customer emails by leveraging the power of generative AI. It intelligently summarizes lengthy consumer emails into clear, concise insights and extracts key action items, reducing manual effort and improving turnaround times.\n\nWhen a customer email is received, the agent analyzes the content, identifies critical issues, and generates a structured summary that highlights the most important points. This ensures customer concerns are never overlooked and enables support teams to prioritize tasks effectively. Alongside summarization, it automatically extracts actionable follow-ups, such as delivery updates, redirection requests, or escalation needs, ensuring faster resolution.\n\nTo further streamline workflows, the tool generates a draft email response, aligned with organizational tone and standards. This allows agents to quickly review, refine, and send replies—significantly improving both speed and consistency of communication.\n\nThe demo showcases real-world use cases, such as logistics updates, redirection requests, or service complaints, where the AI rapidly interprets the customer's intent and produces actionable next steps. By automating repetitive email analysis and response drafting, the Email Assist Agent empowers teams to save time, handle higher volumes, reduce errors, and deliver superior customer experiences.",
     "Note": null
   },
   {
@@ -93,7 +93,7 @@
     "Image": null,
     "Snippet": null,
     "Long_description": null,
-    "Note": "No option to check Demo "
+    "Note": "No option to check Demo"
   },
   {
     "URL": "https://www.straive.com/contact-us",
@@ -101,7 +101,7 @@
     "Image": null,
     "Snippet": null,
     "Long_description": null,
-    "Note": "No option to check Demo "
+    "Note": "No option to check Demo"
   },
   {
     "URL": "https://www.straive.com/contact-us",
@@ -110,53 +110,5 @@
     "Snippet": null,
     "Long_description": null,
     "Note": "Upon clicking on the demo it redirecting to a PPT https://docs.google.com/presentation/d/1-0KoCQxM_cS5hepSsVpo12rnOnRBhczU/edit?slide=id.p24#slide=id.p24"
-  },
-  {
-    "URL": "https://www.straive.com/contact-us",
-    "Title": null,
-    "Image": null,
-    "Snippet": null,
-    "Long_description": null,
-    "Note": null
-  },
-  {
-    "URL": "https://www.straive.com/contact-us",
-    "Title": null,
-    "Image": null,
-    "Snippet": null,
-    "Long_description": null,
-    "Note": null
-  },
-  {
-    "URL": "https://www.straive.com/contact-us",
-    "Title": null,
-    "Image": null,
-    "Snippet": null,
-    "Long_description": null,
-    "Note": null
-  },
-  {
-    "URL": "https://www.straive.com/contact-us",
-    "Title": null,
-    "Image": null,
-    "Snippet": null,
-    "Long_description": null,
-    "Note": null
-  },
-  {
-    "URL": "https://www.straive.com/contact-us",
-    "Title": null,
-    "Image": null,
-    "Snippet": null,
-    "Long_description": null,
-    "Note": null
-  },
-  {
-    "URL": "https://www.straive.com/contact-us",
-    "Title": null,
-    "Image": null,
-    "Snippet": null,
-    "Long_description": null,
-    "Note": null
   }
 ]
